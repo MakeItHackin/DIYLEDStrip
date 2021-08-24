@@ -1,4 +1,4 @@
-# DIYLEDStrip
+# DIY Color LED Strip
 
 I created this YouTube video to demonstrate how to set up this project:<br>
 <insert link here>  --- Will be uploaded soon!
