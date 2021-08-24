@@ -1,8 +1,6 @@
 # DIY Color LED Strip
 
-I created this YouTube video to demonstrate how to set up this project:<br>
-<insert link here>  --- Will be uploaded soon!
-  <br>
+I created this YouTube video to demonstrate how to set up this project: https://youtu.be/S97i9J8TsU0 <br>
 <br>
 <b>To start this project, you will need:</b>
 * Arduino compatible board
